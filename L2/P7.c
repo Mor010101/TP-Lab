@@ -1,6 +1,6 @@
 /*
 Pentru uint32max nu produce nici una dintre variante un raspuns in timp rezonabil, pentru numere de dimensiunea aia am atasat si o versiune
-care foloseste Pthreads (SourcePthread.c) + lib,bin,dll necesare pentru pthreads
+care foloseste Pthreads (B7_Pthread.c) + lib,bin,dll necesare pentru pthreads
 */
 
 
