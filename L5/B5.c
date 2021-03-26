@@ -1,4 +1,4 @@
-
+//Aceiasi problema ca P5 de la laboratorul anterior
 
 #include<stdio.h>
 #include<stdlib.h>
